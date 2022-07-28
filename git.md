@@ -4,6 +4,8 @@
 
 Git is a software that allows you to work with multiple people at the same time and track changes to a file and organize different versions into branches.
 
+Git is the software that powers GitHub – the largest code repository in the world.
+
 ## Practice
 https://cs50.harvard.edu/web/2020/weeks/1/
 https://learngitbranching.js.org/ 
