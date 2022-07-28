@@ -41,7 +41,7 @@ by Shawn Carrié
     ##### Algorithm
      ###### Metadata
       - Format (Video,Article,IDE…)
-        <!-- What consistutes a single Tut? A single URL? How to display them? -->
+        <!-- What constistutes a single Tut? A single URL? How to display them? -->
       - Tutorial Type (single, course)
       - Topics []
       - Cost Class : [Free,Paid]
